@@ -7,3 +7,7 @@ polling
 pillow
 google
 pyquery
+pytz
+youtube_dl
+youtube-search
+validators
